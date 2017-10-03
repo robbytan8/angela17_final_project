@@ -1,0 +1,20 @@
+#Greenfoot properties
+#Tue Oct 03 21:54:54 ICT 2017
+class.CandidateTwo.superclass=greenfoot.Actor
+project.charset=UTF-8
+class.Label.superclass=greenfoot.Actor
+mainWindow.height=600
+class.CandidateOne.image=profile1x.jpg
+class.CandidateThree.image=profile3x.png
+version=3.0.0
+class.ButtonFinalize.image=button-blue.png
+class.CandidateOne.superclass=greenfoot.Actor
+class.ButtonFinalize.superclass=greenfoot.Actor
+class.MyWorld.image=bluerock.jpg
+class.CandidateThree.superclass=greenfoot.Actor
+world.lastInstantiated=MyWorld
+class.MyWorld.superclass=greenfoot.World
+mainWindow.y=40
+mainWindow.x=40
+mainWindow.width=850
+class.CandidateTwo.image=profile2x.jpg
